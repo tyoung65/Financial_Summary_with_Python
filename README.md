@@ -1,2 +1,2 @@
 # python-homework
-Unit 2 Homework using financial analysis within Python
+Unit 2 Homework: Using Financial Analysis With Python
