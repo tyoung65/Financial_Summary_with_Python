@@ -1,1 +1,7 @@
-Financial Analysis------------------------------------------The total number of months is 86.The sum of profit and loss is $38382578.The average change in profit/loss per month is $-2315.12.Greatest Increase in Profits is $1926159 on Feb-2012.Greatest Decrease in Profits is $-2196167 on Sep-2013.
+Financial Analysis 
+------------------------------------------ 
+The total number of months is 86. 
+The sum of profit and loss is $38382578. 
+The average change in profit/loss per month is $-2315.12. 
+Greatest Increase in Profits is $1926159 on Feb-2012. 
+Greatest Decrease in Profits is $-2196167 on Sep-2013. 
