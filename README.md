@@ -1,4 +1,4 @@
-# Financial Analysis with Python
+# Financial Summary with Python
 ---
 Data has been imported from a CSV file into python for a basic analysis of the company's financial standing.
 
